@@ -1,0 +1,14 @@
+160  git init
+  161  git status
+  162  git add firstprg.py
+  163  git commit -m "version01"
+  164  git remmote -v
+  165  git remote -v
+  166  git remote add origin https://github.com/kishorpatil2107/git-github.git
+  167  git remote -v
+  168  git branch
+  169  git branch -M main
+  170  git branch
+  171  git push -u origin main
+  172  history
+  git remote set-url origin https://token_id@github.com/github_userid/github_repositoryname
